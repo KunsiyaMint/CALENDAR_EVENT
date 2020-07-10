@@ -8,6 +8,8 @@
 //    $sql = "SELECT * FROM CALENDAR_EVENT";
 //    $query=sqlsrv_query($conn,$sql);
 
+
+
 $id = $_POST['id'];
 $title = $_POST['title'];
 $start = $_POST['start'];
